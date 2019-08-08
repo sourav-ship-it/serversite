@@ -1,0 +1,41 @@
+h1 {
+    text-align: center;
+    margin-top: 10%;
+    font-size: 5em;
+}
+
+body {
+    background-color: yellow;
+}
+
+#calc {
+    border: 1px solid;
+    padding: 10px;
+    margin-left: 450px;
+    max-width: 27.4em;
+    align-self: center;
+}
+
+#display {
+    width: 425px;
+    height: 150px;
+    font-size: 70px;
+    color: aqua;
+    background-color: black;
+}
+
+.button {
+    font-size: 30px;
+    width: 98px;
+    height: 50px;
+    background-color: black;
+    color: aquamarine;
+}
+
+table {
+    margin: auto;
+    max-width: 295px;
+    height: 325px;
+    text-align: center;
+    padding-right: 15px;
+}
